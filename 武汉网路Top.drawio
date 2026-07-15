@@ -1,0 +1,22 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="第 1 页" id="zWOWDt7bmEUYdbz12KbN">
+    <mxGraphModel dx="866" dy="483" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="8ks9PImVVZxWQYrA6M_g-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="展厅二楼(生产)" vertex="1">
+          <mxGeometry height="190" width="120" x="90" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="8ks9PImVVZxWQYrA6M_g-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="展厅一楼" vertex="1">
+          <mxGeometry height="190" width="120" x="90" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="8ks9PImVVZxWQYrA6M_g-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="仓库二楼(研发)" vertex="1">
+          <mxGeometry height="190" width="120" x="600" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="8ks9PImVVZxWQYrA6M_g-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="仓库一楼" vertex="1">
+          <mxGeometry height="190" width="120" x="600" y="320" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
